@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sahiti.nallamudi.com/about.html</loc>
-    <lastmod>2022-09-25T22:41:33.588Z</lastmod>
+    <lastmod>2022-09-25T22:56:49.212Z</lastmod>
   </url>
   <url>
     <loc>https://sahiti.nallamudi.com/posts/post-with-code/index.html</loc>
@@ -14,6 +14,10 @@
   </url>
   <url>
     <loc>https://sahiti.nallamudi.com/index.html</loc>
-    <lastmod>2022-09-25T22:41:35.438Z</lastmod>
+    <lastmod>2022-09-25T22:57:00.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sahiti.nallamudi.com/posts/first post/index.html</loc>
+    <lastmod>2022-09-25T22:56:36.247Z</lastmod>
   </url>
 </urlset>

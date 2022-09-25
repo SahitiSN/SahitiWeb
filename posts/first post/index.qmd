@@ -1,0 +1,8 @@
+---
+title: "welcome to my blog!"
+author: "Sahiti Nallamudi"
+date: "2022-09-25"
+categories: [books]
+---
+
+Hello! I'm Sahiti Nallamudi, which you can probably tell from the URL. Goodbye!
