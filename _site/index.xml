@@ -5,10 +5,15 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Sahiti's musings</title>
+<title>Sahiti's Musings</title>
 <link>https://sahiti.nallamudi.com/index.html</link>
 <atom:link href="https://sahiti.nallamudi.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sahiti's book reviews</description>
+<image>
+<url>https://sahiti.nallamudi.com/sahiti.jpg</url>
+<title>Sahiti's Musings</title>
+<link>https://sahiti.nallamudi.com/index.html</link>
+</image>
 <generator>quarto-1.0.36</generator>
 <lastBuildDate>Sun, 25 Sep 2022 04:00:00 GMT</lastBuildDate>
 <item>
