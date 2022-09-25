@@ -3,7 +3,7 @@
     "path": "D:/Projects/SahitiWeb/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "3487295438",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1664137298747.0,
@@ -16,9 +16,9 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "14,39",
+        "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "309:0"
+        "rmdVisualModeLocation": "313:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1664142694,
